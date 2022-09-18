@@ -292,7 +292,7 @@ header .links #menu:checked ~ ul {
 /* Start Services */
 
 .services {
-    padding: var(--section-padding) 0;
+    padding: var(--section-padding) 0 calc(var(--section-padding) + 50px);
 }
 
 .services-content {
